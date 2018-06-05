@@ -1,6 +1,6 @@
 # main settings
-title:            Minicomp/Wax
-description:      a jekyll theme for minimal exhibitions
+title:            Nate Hill
+description:      portfolio
 url:              ''
 baseurl:          '/wax'
 
@@ -23,19 +23,19 @@ collections:
 
 # menu settings
 menu:
-  - label: About
-    sub:
-    - label: Wax
-      link: /about/
-    - label: Minicomp
-      link: /minicomp/
-    - label: Credits
-      link: /credits/
-  - label: Documentation
-    link: https://minicomp.github.io/wiki/#/wax/
-  - label: Exhibits
+#  - label: About
+#    sub:
+#    - label: Wax
+#      link: /about/
+#    - label: Minicomp
+#      link: /minicomp/
+#    - label: Credits
+#      link: /credits/
+  - label: Resume
+    link: /resume/
+  - label: Projects
     link: /exhibits/
-  - label: Gallery
+  - label: Painting
     link: /gallery/
 
 # search tests

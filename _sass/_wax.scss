@@ -44,7 +44,7 @@ header & nav bar
 */
 
 #header-block{
-  border-bottom: 1px solid grey;
+  /*border-bottom: 1px solid grey;*/
   padding: $more-margin 0 $more-margin 0;
   @media screen and (max-width: $break-med) {
     padding: $less-margin 0 $less-margin 0;
@@ -263,9 +263,9 @@ search box
 
     .gallery-item {
       padding: 0;
-      margin: 0;
+      margin: 20px;
       width: 200px;
-      border: 1px $dark-grey solid;
+      /*border: 1px $dark-grey solid;*/
 
       .gallery-thumb{
         object-fit: cover;
