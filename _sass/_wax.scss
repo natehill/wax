@@ -263,7 +263,7 @@ search box
 
     .gallery-item {
       padding: 0;
-      margin: 20px;
+      margin: 20px 35px 20px 35px;
       width: 200px;
       /*border: 1px $dark-grey solid;*/
 
@@ -271,7 +271,7 @@ search box
         object-fit: cover;
         object-position: 50% 20%;
         width: 200px;
-        height: 175px;
+        height: 280px;
       }
 
       .hovereffect {
@@ -324,7 +324,7 @@ search box
           -webkit-transition:opacity 0.4s ease-in-out;
           transition: opacity 0.4s ease-in-out;
           display: table;
-          height: 200px;
+          height: 280px;
         }
       }
     }

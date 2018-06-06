@@ -1,7 +1,7 @@
 ---
 layout: gallery-page
-title: Gallery
-permalink: /gallery/
+title: Painting
+permalink: /painting/
 collection: qatar
 facet_by: object_type
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Wax.
+title: Nate Hill
 search: true
 banner:
 - collection: qatar

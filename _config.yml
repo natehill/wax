@@ -2,7 +2,7 @@
 title:            Nate Hill
 description:      portfolio
 url:              ''
-baseurl:          '/wax'
+baseurl:          ''
 
 # build settings
 permalink:        pretty
@@ -34,9 +34,11 @@ menu:
   - label: Resume
     link: /resume/
   - label: Projects
-    link: /exhibits/
+    link: /projects/
+  - label: Presentations
+    link: /presentations/
   - label: Painting
-    link: /gallery/
+    link: /painting/
 
 # search tests
 quoll:
